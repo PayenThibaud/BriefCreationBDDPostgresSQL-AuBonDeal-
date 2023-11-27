@@ -1,4 +1,4 @@
-# Brief Creation BDDP ostgresSQL-Au Bon Deal-
+# Brief Creation BDD PostgresSQL-Au Bon Deal-
   
 ## Description du repotitories
   
