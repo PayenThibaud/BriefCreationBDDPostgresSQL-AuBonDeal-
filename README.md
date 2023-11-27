@@ -37,5 +37,4 @@
 - **Colonnes :**
     - `product_UUID` : Référence au produit (clé étrangère).
     - `order_number` : Référence à la commande (clé étrangère).
-
   
